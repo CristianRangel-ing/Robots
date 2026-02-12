@@ -1,2 +1,2 @@
 # Robots
-
+Repositorio destinado al desarrollo, integración y prueba de soluciones de control y automatización para robots industriales. El proyecto reúne código fuente, scripts de configuración, modelos de simulación y documentación para el despliegue en entornos de laboratorio y planta piloto. Se enfatiza el diseño modular, la trazabilidad de cambios y el cumplimiento de normas básicas de seguridad industrial para facilitar la investigación, la enseñanza y la transferencia tecnológica. 🤖🔧
